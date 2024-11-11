@@ -1,0 +1,347 @@
+[
+    {
+        "id": 1,
+        "xona": "101",
+        "group_name": "547-23",
+        "subject": "Kompyuterni tashkil etish",
+        "attendance": {
+            "Keldi": "20",
+            "Kelmadi": "0",
+            "Jami": "20"
+        }
+    },
+    {
+        "id": 6,
+        "xona": "202",
+        "group_name": "647-23",
+        "subject": "Sun’iy intellekt asoslari",
+        "attendance": {}
+    },
+    {
+        "id": 2,
+        "xona": "106",
+        "group_name": "667-24",
+        "subject": "Iqtisodiyotda axborot-kommunikatsion texnologiyalar va tizimlari",
+        "attendance": {}
+    },
+    {
+        "id": 8,
+        "xona": "207",
+        "group_name": "657-24",
+        "subject": "Xorijiy til 1",
+        "attendance": {}
+    },
+    {
+        "id": 13,
+        "xona": "218",
+        "group_name": "614-23",
+        "subject": "Kompyuterni tashkil etish",
+        "attendance": {}
+    },
+    {
+        "id": 14,
+        "xona": "221",
+        "group_name": "647-24",
+        "subject": "Dasturlash 1",
+        "attendance": {}
+    },
+    {
+        "id": 4,
+        "xona": "115",
+        "group_name": "682-22",
+        "subject": "Kompyuter tarmoqlari",
+        "attendance": {}
+    },
+    {
+        "id": 4,
+        "xona": "115",
+        "group_name": "681-22",
+        "subject": "Kompyuter tarmoqlari",
+        "attendance": {
+            "Keldi": "20",
+            "Kelmadi": "",
+            "Jami": "20"
+        }
+    },
+    {
+        "id": 4,
+        "xona": "115",
+        "group_name": "680-22",
+        "subject": "Kompyuter tarmoqlari",
+        "attendance": {}
+    },
+    {
+        "id": 3,
+        "xona": "107",
+        "group_name": "612-23",
+        "subject": "Kiberxavfsizlik asoslari",
+        "attendance": {}
+    },
+    {
+        "id": 3,
+        "xona": "107",
+        "group_name": "611-23",
+        "subject": "Kiberxavfsizlik asoslari",
+        "attendance": {
+            "Keldi": "25",
+            "Kelmadi": "0",
+            "Jami": "25"
+        }
+    },
+    {
+        "id": 3,
+        "xona": "107",
+        "group_name": "610-23",
+        "subject": "Kiberxavfsizlik asoslari",
+        "attendance": {}
+    },
+    {
+        "id": 10,
+        "xona": "209",
+        "group_name": "652-23",
+        "subject": "Kompyuterni tashkil etish",
+        "attendance": {}
+    },
+    {
+        "id": 10,
+        "xona": "209",
+        "group_name": "651-23",
+        "subject": "Kompyuterni tashkil etish",
+        "attendance": {}
+    },
+    {
+        "id": 10,
+        "xona": "209",
+        "group_name": "650-23",
+        "subject": "Kompyuterni tashkil etish",
+        "attendance": {}
+    },
+    {
+        "id": 10,
+        "xona": "209",
+        "group_name": "540-23",
+        "subject": "Kompyuterni tashkil etish",
+        "attendance": {}
+    },
+    {
+        "id": 21,
+        "xona": "305",
+        "group_name": "640-24",
+        "subject": "Xorijiy til 1",
+        "attendance": {}
+    },
+    {
+        "id": 22,
+        "xona": "307",
+        "group_name": "613-23",
+        "subject": "Elektronika va sxemalar",
+        "attendance": {}
+    },
+    {
+        "id": 24,
+        "xona": "309",
+        "group_name": "641-24",
+        "subject": "Hisob(Calculus) 1",
+        "attendance": {}
+    },
+    {
+        "id": 23,
+        "xona": "308",
+        "group_name": "580-23",
+        "subject": "Oliy matematika 3",
+        "attendance": {}
+    },
+    {
+        "id": 27,
+        "xona": "315 A",
+        "group_name": "541-24",
+        "subject": "Xorijiy til 1",
+        "attendance": {}
+    },
+    {
+        "id": 25,
+        "xona": "312",
+        "group_name": "547-24",
+        "subject": "Akademik yozuv",
+        "attendance": {}
+    },
+    {
+        "id": 26,
+        "xona": "315",
+        "group_name": "617-22",
+        "subject": "Kompyuter tarmoqlari",
+        "attendance": {}
+    },
+    {
+        "id": 26,
+        "xona": "315",
+        "group_name": "687-22",
+        "subject": "Kompyuter tarmoqlari",
+        "attendance": {
+            "Keldi": "13",
+            "Kelmadi": "0",
+            "Jami": "13"
+        }
+    },
+    {
+        "id": 38,
+        "xona": "105 A",
+        "group_name": "637-24",
+        "subject": "Hisob(Calculus) 1",
+        "attendance": {}
+    },
+    {
+        "id": 39,
+        "xona": "106 A",
+        "group_name": "660-22",
+        "subject": "Raqamli iqtisodiyot va innovatsiya",
+        "attendance": {
+            "Keldi": "16",
+            "Kelmadi": "",
+            "Jami": "16"
+        }
+    },
+    {
+        "id": 37,
+        "xona": "333",
+        "group_name": "681-23",
+        "subject": "Sun’iy intellekt asoslari",
+        "attendance": {}
+    },
+    {
+        "id": 37,
+        "xona": "333",
+        "group_name": "680-23",
+        "subject": "Sun’iy intellekt asoslari",
+        "attendance": {}
+    },
+    {
+        "id": 46,
+        "xona": "206 A",
+        "group_name": "670-24",
+        "subject": "Falsafa",
+        "attendance": {}
+    },
+    {
+        "id": 47,
+        "xona": "207 A",
+        "group_name": "670-22",
+        "subject": "Pochta aloqasi infrastrukturasi",
+        "attendance": {}
+    },
+    {
+        "id": 36,
+        "xona": "332",
+        "group_name": "619-22",
+        "subject": "Ochiq tanlov fan (Moliyaviy savodxonlik asoslari)",
+        "attendance": {}
+    },
+    {
+        "id": 52,
+        "xona": "102 B",
+        "group_name": "660-24",
+        "subject": "Iqtisodiyot ta'limotlari tarixi",
+        "attendance": {
+            "Keldi": "22",
+            "Kelmadi": "",
+            "Jami": "22"
+        }
+    },
+    {
+        "id": 48,
+        "xona": "212 A",
+        "group_name": "631-22",
+        "subject": "Mikroprossesor va assembler tili",
+        "attendance": {}
+    },
+    {
+        "id": 48,
+        "xona": "212 A",
+        "group_name": "630-22",
+        "subject": "Mikroprossesor va assembler tili",
+        "attendance": {
+            "Keldi": "15",
+            "Kelmadi": "0",
+            "Jami": "15"
+        }
+    },
+    {
+        "id": 59,
+        "xona": "Korea markazi 1-xona",
+        "group_name": "653-24",
+        "subject": "Dasturlash 1",
+        "attendance": {}
+    },
+    {
+        "id": 49,
+        "xona": "214 A",
+        "group_name": "623-22",
+        "subject": "Ta'lim nazariyasi",
+        "attendance": {}
+    },
+    {
+        "id": 49,
+        "xona": "214 A",
+        "group_name": "622-22",
+        "subject": "Ta'lim nazariyasi",
+        "attendance": {
+            "Keldi": "19",
+            "Kelmadi": "0",
+            "Jami": "19"
+        }
+    },
+    {
+        "id": 49,
+        "xona": "214 A",
+        "group_name": "621-22",
+        "subject": "Ta'lim nazariyasi",
+        "attendance": {}
+    },
+    {
+        "id": 49,
+        "xona": "214 A",
+        "group_name": "620-22",
+        "subject": "Ta'lim nazariyasi",
+        "attendance": {
+            "Keldi": "19",
+            "Kelmadi": "0",
+            "Jami": "19"
+        }
+    },
+    {
+        "id": 58,
+        "xona": "Katta majlislar zali",
+        "group_name": "642-23",
+        "subject": "Ma'lumotlar bazasi",
+        "attendance": {}
+    },
+    {
+        "id": 58,
+        "xona": "Katta majlislar zali",
+        "group_name": "641-23",
+        "subject": "Ma'lumotlar bazasi",
+        "attendance": {
+            "Keldi": "23",
+            "Kelmadi": "0",
+            "Jami": "23"
+        }
+    },
+    {
+        "id": 58,
+        "xona": "Katta majlislar zali",
+        "group_name": "640-23",
+        "subject": "Ma'lumotlar bazasi",
+        "attendance": {}
+    },
+    {
+        "id": 58,
+        "xona": "Katta majlislar zali",
+        "group_name": "541-23",
+        "subject": "Ma'lumotlar bazasi",
+        "attendance": {
+            "Keldi": "15",
+            "Kelmadi": "0",
+            "Jami": "15"
+        }
+    }
+]
